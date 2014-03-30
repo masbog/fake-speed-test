@@ -1,0 +1,4 @@
+ p5-libwww-perl
+ p5-probe-perl
+ perl
+ perl-base-modules
