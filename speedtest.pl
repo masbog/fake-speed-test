@@ -2,7 +2,7 @@
 //  speedtest.pl
 //
 //  Created by Augusta Bogie on 3/30/14.
-//  Copyright (c) 2014 asepmoels. All rights reserved.
+//  Copyright (c) 2014 MasBog. All rights reserved.
 //
 //  tweak up from another user at github.com https://github.com/gray/dotfiles/blob/master/bin/fake-speedtest.pl
 #!/usr/bin/env perl
